@@ -1,0 +1,22 @@
+body{
+   font-family: 'Covered By Your Grace', cursive;
+}
+.read{
+    color:black;
+}
+.container{
+padding:5px;
+background:black;
+margin:10px;
+
+}
+.ayat1container{
+    color:white;
+}
+.ayat2container{
+    color:#00ff00;
+}
+
+#blueContainer{
+    background:#003366;
+}
